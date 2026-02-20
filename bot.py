@@ -7,8 +7,8 @@ from pending_orders import pending_orders
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
+BOT_TOKEN = "8546635489:AAFQ4IXS9KS2y0DlsXzWCLLBorHoCXBfR60"
+CHAT_ID = "t.me/xauusdgoldd_bot"
 
 last_alert_time = None
 
